@@ -1,8 +1,6 @@
 # msbuild-inline-task
 
-Reference: Casey Smith, Twitter: @subTee
-
-Author: 3gstudent, Twitter: @3gstudent
+Author: Casey Smith, Twitter: @subTee
 
 License: BSD 3-Clause
 
