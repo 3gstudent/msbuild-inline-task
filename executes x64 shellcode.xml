@@ -2,8 +2,7 @@
   <!-- This inline task executes x64 shellcode. -->
   <!-- C:\Windows\Microsoft.NET\Framework64\v4.0.30319\msbuild.exe SimpleTasks.csproj -->
   <!-- Save This File And Execute The Above Command -->
-  <!-- Reference: Casey Smith, Twitter: @subTee -->
-  <!-- Author: 3gstudent, Twitter: @3gstudent --> 
+  <!-- Author: Casey Smith, Twitter: @subTee --> 
   <!-- License: BSD 3-Clause -->
   <Target Name="Hello">
     <ClassExample />
