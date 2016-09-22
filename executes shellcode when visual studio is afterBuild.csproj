@@ -1,6 +1,5 @@
 <!-- This inline task executes shellcode when visual studio is afterbuild. -->
 <!-- Add the following code into the .csproj file -->
-<!-- Author: 3gstudent, Twitter: @3gstudent --> 
 <!-- License: BSD 3-Clause -->
 
 <Target Name="AfterBuild">
